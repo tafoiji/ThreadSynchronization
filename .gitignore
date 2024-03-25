@@ -1,0 +1,6 @@
+Solution/x64/
+Solution/.vs/
+*.vcxproj
+*.vcxproj.*
+*.sln
+
